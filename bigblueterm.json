@@ -3,6 +3,23 @@
   "name": "bigblueterminal",
   "previewText": "this-font-is-also-known-to-be-the-worlds-very-first-font-to-be-used-by-machines-(or-maybe-not-i-dont-really-know)",
   "main": {
-    "bigblue-terminal": "https://files.catbox.moe/7m5571.TTF",
+    "ABCGintoNord-ExtraBold": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-Bold": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-BoldItalic": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-ExtraBold": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-ExtraBoldItalic": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-Medium": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-MediumItalic": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-Normal": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-NormalItalic": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-Semibold": "https://files.catbox.moe/7m5571.TTF",
+    "ggsans-SemiboldItalic": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-Bold": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-ExtraBold": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-Medium": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-Normal": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-NormalItalic": "https://files.catbox.moe/7m5571.TTF",
+    "NotoSans-Semibold": "https://files.catbox.moe/7m5571.TTF",
+    "SourceCodePro-Semibold": "https://files.catbox.moe/7m5571.TTF"
   }
 }
