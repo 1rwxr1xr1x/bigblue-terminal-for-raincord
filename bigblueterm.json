@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "bigblueterm",
+  "previewText": "this font is also known as the world's first font used by machines",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/1rwxr1xr1x/bigblue-terminal-for-raincord/main/BigBlue_TerminalPlus.ttf"
+  }
+}
